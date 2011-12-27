@@ -1,0 +1,20 @@
+#Tue Dec 27 19:51:15 CET 2011
+eclipse.preferences.version=1
+filesCopiedToWebInfLib=appengine-api-1.0-sdk-1.6.1.jar|appengine-api-labs-1.6.1.jar|appengine-jsr107cache-1.6.1.jar|jsr107cache-1.1.jar|datanucleus-appengine-1.0.10.final.jar|datanucleus-core-1.1.5.jar|datanucleus-jpa-1.1.5.jar|geronimo-jpa_3.0_spec-1.1.1.jar|geronimo-jta_1.1_spec-1.1.1.jar|jdo2-api-2.3-eb.jar|google_sql.jar
+gaeDeployDialogSettings=
+gaeHrdEnabled=false
+gaeIsEclipseDefaultInstPath=true
+googleCloudSqlEnabled=false
+localDevMySqlEnabled=true
+mySqlDatabaseName=HandeHand
+mySqlDatabasePassword=thailand
+mySqlDatabaseUser=root
+mySqlHostName=localhost
+mySqlIsConfigured=true
+mySqlJdbcJar=/Users/ibai/Downloads/mysql-connector-java-5.1.18/mysql-connector-java-5.1.18-bin.jar
+mySqlPort=3306
+testDatabaseName=HandeHand
+testDatabasePassword=HandeHand
+testDatabaseUser=HandeHand
+testInstanceName=HandeHand
+testIsConfigured=true
