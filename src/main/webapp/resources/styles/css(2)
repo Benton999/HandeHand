@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url('http://themes.googleusercontent.com/static/fonts/lato/v4/RYyZNoeFgb0l7W3Vu1aSWOvvDin1pK8aKteLpeZ5c0A.woff') format('woff');
+}

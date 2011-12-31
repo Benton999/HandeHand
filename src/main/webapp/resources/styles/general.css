@@ -1,0 +1,127 @@
+/*===========Articles Edit============*/
+
+#editor-xtd-buttons {padding-top: 10px;}
+
+#editor-xtd-buttons .button2-left, .button2-left div {
+    float: left;
+}
+#editor-xtd-buttons .button2-left a, .button2-left button, .button2-left span{
+    color: #333333;
+    cursor: pointer;
+    display: block;
+    float: left;
+    font-size: 1em;
+    height: 22px;
+    line-height: 22px;
+	text-decoration:none;
+}
+
+#editor-xtd-buttons .button2-left .page a, #editor-xtd-buttons .button2-right .page a, #editor-xtd-buttons .button2-left .page span, #editor-xtd-buttons .button2-right .page span, #editor-xtd-buttons .button2-left .blank a, #editor-xtd-buttons .button2-right .blank a, #editor-xtd-buttons .button2-left .blank span, #editor-xtd-buttons .button2-right .blank span, #editor-xtd-buttons .button2-left .blank button, #editor-xtd-buttons .button2-right .blank button {
+    padding: 0 6px;
+}
+
+#editor-xtd-buttons .button2-left a:hover, #editor-xtd-buttons .button2-left button:hover, #editor-xtd-buttons .button2-left button:hover {
+    color: #0B55C4;
+    text-decoration: none;
+}
+#editor-xtd-buttons .button2-left a, #editor-xtd-buttons .button2-left span, #editor-xtd-buttons .button2-left button {
+    padding: 0 24px 0 6px;
+}
+
+#editor-xtd-buttons .button2-left {
+    background: url("../images/system/j_button2_left.png") no-repeat scroll 0 0 transparent;
+    float: left;
+    margin-right: 10px;
+}
+
+#editor-xtd-buttons .button2-left .image {
+    background: url("../images/system/j_button2_image.png") no-repeat scroll 100% 0 transparent;
+}
+#editor-xtd-buttons .button2-left .readmore {
+    background: url("../images/system/j_button2_readmore.png") no-repeat scroll 100% 0 transparent;
+}
+#editor-xtd-buttons .button2-left .pagebreak {
+    background: url("../images/system/j_button2_pagebreak.png") no-repeat scroll 100% 0 transparent;
+}
+#editor-xtd-buttons .button2-left .blank {
+    background: url("../images/system/j_button2_blank.png") no-repeat scroll 100% 0 transparent;
+}
+#editor-xtd-buttons .button2-left .article {
+    background: url("../images/system/j_button2_readmore.png") no-repeat scroll 100% 0 transparent;
+}
+
+#editor-xtd-buttons .readmore a {
+	font-weight: normal; 
+	line-height: 22px;
+	margin: 0;
+	background: none;
+}
+
+.edit fieldset{
+	border:1px solid #ccc;
+	padding:0 2em 2em 2em;}
+	
+.edit fieldset legend{
+	font-weight:bold;
+	padding:0 1em;
+	margin-left:1em;}
+
+.edit label
+{
+	width:10em;
+	display:block;
+	float:left;
+	}
+
+.edit .formelm {
+	margin:1em 0;
+	overflow:hidden;
+	clear:both;
+}
+
+.edit .formelm input {
+	background: white;
+    border: 1px solid #E4E4E4;
+    border-radius: 0px 0px 0px 0px;
+    color: #A4A4A1;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+    margin: 0px;
+    outline: medium none;
+    padding: 1px 5px;
+    position: relative;
+}
+
+.edit  select{
+	width:183px;
+	}
+#jform_publish_up_img,
+#jform_publish_down_img{
+	left: 5px;
+    position: relative;
+    top: 4px;
+	display: inline-block;
+}
+
+.edit fieldset{
+	position:relative;}
+
+.edit .formelm-area{
+	margin-top:1em;}
+	
+.edit .formelm-buttons{}
+
+form#adminForm textarea {
+	width: 96% !important;
+}
+
+label#jform_description-lbl{float:none;}
+
+
+.formelm-wrap {width: 100%; overflow: hidden; padding-bottom: 20px;}
+.formelm-wrap .formelm {float: left; margin: 0;}
+.formelm-wrap .formelm label {padding-top: 0px;}
+.formelm-wrap .formelm input {}
+.formelm-wrap .formelm-buttons {float: right; overflow: hidden; width: auto;}
+.formelm-wrap .formelm-buttons button {margin-left: 10px; float: left;}

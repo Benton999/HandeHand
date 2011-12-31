@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* Social Media Icon Links Extension (S.M.I.L.E.) */
+div.smile a {display:inline-block;width:auto;outline:none;}
+div.smile a img {border:none;}
+div.smile a:hover {background:none;}
+div.smilecredits {width:100%}
+div.smilecredits a {font-size:10px;}
+.clr {clear:both;}
+
+.smile {
+	float: right;
+	padding-top: 18px;
+}
+
+.smile ul {}
+.smile ul li {
+	float: left;
+    height: 36px;
+    overflow: hidden;
+    position: relative;
+    width: 36px;
+}
+.smile ul li a {
+	display: inline-block;
+	margin: 2px !important;
+	width: 32px;
+	height: 32px;
+	overflow: hidden;	
+	box-shadow: 0 1px 2px #a3a3a3;
+	-moz-box-shadow: 0 1px 2px #a3a3a3;
+	-webkit-box-shadow: 0 1px 2px #a3a3a3;
+	position: relative;
+}
+.smile ul li a img {
+	position: relative;
+    top: 0;
+	display: block;
+}
+.smile ul li a:hover {
+	color: #fff; 
+	text-decoration: none;
+}
+.smile ul li a:hover img {margin-top: -32px;}
